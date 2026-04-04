@@ -1,3 +1,6 @@
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_le3nmyle3nmyle3n" src="https://github.com/user-attachments/assets/fc83acac-08d4-41a7-82bf-17b215700be6" />
+
 # 🌊 Young's Double Slit Experiment (YDSE)
 
 Welcome! This repository explores the fundamental principles of wave optics and interference through the classic Young's Double Slit Experiment. It includes theoretical foundations, visual guides, and a complete Finite Difference Time Domain (FDTD) simulation setup using Ansys Lumerical.
@@ -31,6 +34,11 @@ To visualize the electromagnetic wave propagation in real-time, this project uti
 
 ### Simulation Script (LSF)
 You can build the entire setup instantly by running the following script in the Lumerical Script Prompt:
+<img width="1697" height="920" alt="04-04-26-175811" src="https://github.com/user-attachments/assets/534d9a26-fe5a-40f2-a46c-86629d645b8a" />
+
+
+https://github.com/user-attachments/assets/d3e62e4a-1386-4ea6-80ef-eb33e3e418ce
+
 
 ```lumerical
 # ==========================================
