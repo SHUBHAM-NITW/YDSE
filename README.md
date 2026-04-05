@@ -40,7 +40,11 @@ This plot represents the cross-sectional intensity ($|E|^2$) extracted from the 
 ## 🌊 FDTD Simulation: Visualizing Wave Interference
 <video src="./ydse1_ydse_movie.mp4" width="1000" controls autoplay loop></video>
 ![Lumerical 3D Simulation](./ydse1_ydse_movie.mp4)
-https://github.com/user-attachments/assets/d3e62e4a-1386-4ea6-80ef-eb33e3e418ce
+
+
+https://github.com/user-attachments/assets/79b41b7c-7041-4ae0-8a79-a5dd5d4ad57a
+
+
 
 
 
