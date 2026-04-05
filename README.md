@@ -36,6 +36,7 @@ To visualize the electromagnetic wave propagation in real-time, this project uti
 You can build the entire setup instantly by running the following script in the Lumerical Script Prompt:
 <img width="1697" height="920" alt="04-04-26-175811" src="https://github.com/user-attachments/assets/534d9a26-fe5a-40f2-a46c-86629d645b8a" />
 
+<img width="1021" height="479" alt="04-05-26-175909" src="https://github.com/user-attachments/assets/2c3c1399-b20e-404f-8fbe-d0a2f936f35a" />
 
 https://github.com/user-attachments/assets/d3e62e4a-1386-4ea6-80ef-eb33e3e418ce
 
