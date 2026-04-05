@@ -1,5 +1,5 @@
 
-<img width="2816" height="1536" alt="Gemini_Generated_Image_le3nmyle3nmyle3n" src="https://github.com/user-attachments/assets/fc83acac-08d4-41a7-82bf-17b215700be6" />
+<img width="2816" height="1536" alt="POSTER" src="https://github.com/user-attachments/assets/fc83acac-08d4-41a7-82bf-17b215700be6" />
 
 # 🌊 Young's Double Slit Experiment (YDSE)
 
@@ -22,15 +22,15 @@ The geometry of the interference pattern is predicted by two primary formulas:
 
 ---
 
-## 📊 Comprehensive Visual Guide
-*(A visual cheat sheet detailing how changing wavelength, screen distance, and slit separation manipulates the interference pattern).*
-
-![Comprehensive YDSE Guide](./path/to/your/ydse_poster.png)
 
 ---
 
 ## 🖥️ Lumerical FDTD Simulation
 To visualize the electromagnetic wave propagation in real-time, this project utilizes a 2D FDTD simulation. The screen is modeled using a Perfect Electrical Conductor (PEC) to ensure a perfectly opaque barrier, and a Continuous Wave (CW) plane source is injected to generate a sustained, bright interference pattern.
+## 🏗️ 3D Simulation Setup in Lumerical FDTD
+This layout view shows the physical construction of the experiment within the Lumerical CAD environment. The green blocks represent the Perfect Electrical Conductor (PEC) barrier forming the two slits, while the orange wireframe defines the FDTD simulation boundaries.
+
+![Lumerical 3D Setup](./04-04-26-175811.png)
 <img width="1697" height="920" alt="04-04-26-175811" src="https://github.com/user-attachments/assets/534d9a26-fe5a-40f2-a46c-86629d645b8a" />
 ## 📈 Extracted 1D Intensity Profile
 This plot represents the cross-sectional intensity ($|E|^2$) extracted from the far edge of the simulation. It clearly demonstrates the sharp interference fringes modulated by the broader single-slit diffraction envelope.
