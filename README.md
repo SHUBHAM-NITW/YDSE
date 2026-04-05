@@ -31,16 +31,15 @@ To visualize the electromagnetic wave propagation in real-time, this project uti
 This layout view shows the physical construction of the experiment within the Lumerical CAD environment. The green blocks represent the Perfect Electrical Conductor (PEC) barrier forming the two slits, while the orange wireframe defines the FDTD simulation boundaries.
 
 ![Lumerical 3D Setup](./04-04-26-175811.png)
-<img width="1697" height="920" alt="04-04-26-175811" src="https://github.com/user-attachments/assets/534d9a26-fe5a-40f2-a46c-86629d645b8a" />
+
 ## 📈 Extracted 1D Intensity Profile
 This plot represents the cross-sectional intensity ($|E|^2$) extracted from the far edge of the simulation. It clearly demonstrates the sharp interference fringes modulated by the broader single-slit diffraction envelope.
 
 ![YDSE 1D Intensity Plot](./04-05-26-175909.png)
-<img width="1021" height="479" alt="04-05-26-175909" src="https://github.com/user-attachments/assets/2c3c1399-b20e-404f-8fbe-d0a2f936f35a" />
-## 🌊 FDTD Simulation: Visualizing Wave Interference
-<video src="./ydse1_ydse_movie.mp4" width="800" controls autoplay loop>
-</video>
 
+## 🌊 FDTD Simulation: Visualizing Wave Interference
+<video src="./ydse1_ydse_movie.mp4" width="1000" controls autoplay loop></video>
+![Lumerical 3D Simulation](./ydse1_ydse_movie.mp4)
 https://github.com/user-attachments/assets/d3e62e4a-1386-4ea6-80ef-eb33e3e418ce
 
 
