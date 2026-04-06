@@ -41,6 +41,7 @@ This plot represents the cross-sectional intensity ($|E|^2$) extracted from the 
 ![YDSE Simulation Animation](./ydse_movie.gif)
 fdt
 <video src="./ydse1_ydse_movie.mp4"  width="1000px" controls autoplay loop></video>
+![ydse_movie gif](https://github.com/user-attachments/assets/77a17e2f-f9d7-4739-aa11-3ee08cb2935b)
 
 <video src="https://github.com/user-attachments/assets/79b41b7c-7041-4ae0-8a79-a5dd5d4ad57a" width="100%" controls autoplay loop>
   Your browser does not support the video tag.
